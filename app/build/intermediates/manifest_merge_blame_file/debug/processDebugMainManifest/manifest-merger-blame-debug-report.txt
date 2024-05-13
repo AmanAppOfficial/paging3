@@ -13,22 +13,22 @@
 11-->/Users/amansrivastava/AndroidStudioProjects/MyRetrofit/app/src/main/AndroidManifest.xml:5:22-64
 12
 13    <permission
-13-->[androidx.core:core:1.13.0] /Users/amansrivastava/.gradle/caches/transforms-3/e042b1224024ccc28a373e8df7b93a43/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+13-->[androidx.core:core:1.14.0-alpha01] /Users/amansrivastava/.gradle/caches/transforms-3/7e2a65a950f44d4a183145a6f5e0036d/transformed/core-1.14.0-alpha01/AndroidManifest.xml:22:5-24:47
 14        android:name="com.example.myretrofit.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-14-->[androidx.core:core:1.13.0] /Users/amansrivastava/.gradle/caches/transforms-3/e042b1224024ccc28a373e8df7b93a43/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+14-->[androidx.core:core:1.14.0-alpha01] /Users/amansrivastava/.gradle/caches/transforms-3/7e2a65a950f44d4a183145a6f5e0036d/transformed/core-1.14.0-alpha01/AndroidManifest.xml:23:9-81
 15        android:protectionLevel="signature" />
-15-->[androidx.core:core:1.13.0] /Users/amansrivastava/.gradle/caches/transforms-3/e042b1224024ccc28a373e8df7b93a43/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+15-->[androidx.core:core:1.14.0-alpha01] /Users/amansrivastava/.gradle/caches/transforms-3/7e2a65a950f44d4a183145a6f5e0036d/transformed/core-1.14.0-alpha01/AndroidManifest.xml:24:9-44
 16
 17    <uses-permission android:name="com.example.myretrofit.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-17-->[androidx.core:core:1.13.0] /Users/amansrivastava/.gradle/caches/transforms-3/e042b1224024ccc28a373e8df7b93a43/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
-17-->[androidx.core:core:1.13.0] /Users/amansrivastava/.gradle/caches/transforms-3/e042b1224024ccc28a373e8df7b93a43/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+17-->[androidx.core:core:1.14.0-alpha01] /Users/amansrivastava/.gradle/caches/transforms-3/7e2a65a950f44d4a183145a6f5e0036d/transformed/core-1.14.0-alpha01/AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.14.0-alpha01] /Users/amansrivastava/.gradle/caches/transforms-3/7e2a65a950f44d4a183145a6f5e0036d/transformed/core-1.14.0-alpha01/AndroidManifest.xml:26:22-94
 18
 19    <application
 19-->/Users/amansrivastava/AndroidStudioProjects/MyRetrofit/app/src/main/AndroidManifest.xml:7:5-27:19
 20        android:allowBackup="true"
 20-->/Users/amansrivastava/AndroidStudioProjects/MyRetrofit/app/src/main/AndroidManifest.xml:8:9-35
 21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-21-->[androidx.core:core:1.13.0] /Users/amansrivastava/.gradle/caches/transforms-3/e042b1224024ccc28a373e8df7b93a43/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+21-->[androidx.core:core:1.14.0-alpha01] /Users/amansrivastava/.gradle/caches/transforms-3/7e2a65a950f44d4a183145a6f5e0036d/transformed/core-1.14.0-alpha01/AndroidManifest.xml:28:18-86
 22        android:dataExtractionRules="@xml/data_extraction_rules"
 22-->/Users/amansrivastava/AndroidStudioProjects/MyRetrofit/app/src/main/AndroidManifest.xml:9:9-65
 23        android:debuggable="true"

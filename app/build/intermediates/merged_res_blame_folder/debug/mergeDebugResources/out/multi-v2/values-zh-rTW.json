@@ -4,6 +4,23 @@
             "outputFile": "com.example.myretrofit.app-mergeDebugResources-35:/values-zh-rTW/values-zh-rTW.xml",
             "map": [
                 {
+                    "source": "/Users/amansrivastava/.gradle/caches/transforms-3/7e2a65a950f44d4a183145a6f5e0036d/transformed/core-1.14.0-alpha01/res/values-zh-rTW/values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,147,246,340,434,527,620,716",
+                        "endColumns": "91,98,93,93,92,92,95,100",
+                        "endOffsets": "142,241,335,429,522,615,711,812"
+                    },
+                    "to": {
+                        "startLines": "38,39,40,41,42,43,44,109",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "3203,3295,3394,3488,3582,3675,3768,8365",
+                        "endColumns": "91,98,93,93,92,92,95,100",
+                        "endOffsets": "3290,3389,3483,3577,3670,3763,3859,8461"
+                    }
+                },
+                {
                     "source": "/Users/amansrivastava/.gradle/caches/transforms-3/5c23d76f02d7074b337ee08ff4a93919/transformed/appcompat-1.6.1/res/values-zh-rTW/values-zh-rTW.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
@@ -18,23 +35,6 @@
                         "startOffsets": "297,392,485,585,667,764,872,949,1024,1116,1210,1307,1403,1498,1592,1688,1780,1872,1964,2042,2138,2233,2328,2425,2521,2619,2769,8286",
                         "endColumns": "94,92,99,81,96,107,76,74,91,93,96,95,94,93,95,91,91,91,77,95,94,94,96,95,97,149,93,78",
                         "endOffsets": "387,480,580,662,759,867,944,1019,1111,1205,1302,1398,1493,1587,1683,1775,1867,1959,2037,2133,2228,2323,2420,2516,2614,2764,2858,8360"
-                    }
-                },
-                {
-                    "source": "/Users/amansrivastava/.gradle/caches/transforms-3/e042b1224024ccc28a373e8df7b93a43/transformed/core-1.13.0/res/values-zh-rTW/values-zh-rTW.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,147,246,340,434,527,620,716",
-                        "endColumns": "91,98,93,93,92,92,95,100",
-                        "endOffsets": "142,241,335,429,522,615,711,812"
-                    },
-                    "to": {
-                        "startLines": "38,39,40,41,42,43,44,109",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "3203,3295,3394,3488,3582,3675,3768,8365",
-                        "endColumns": "91,98,93,93,92,92,95,100",
-                        "endOffsets": "3290,3389,3483,3577,3670,3763,3859,8461"
                     }
                 },
                 {

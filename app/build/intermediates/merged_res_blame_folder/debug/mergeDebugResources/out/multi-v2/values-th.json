@@ -4,7 +4,7 @@
             "outputFile": "com.example.myretrofit.app-mergeDebugResources-35:/values-th/values-th.xml",
             "map": [
                 {
-                    "source": "/Users/amansrivastava/.gradle/caches/transforms-3/e042b1224024ccc28a373e8df7b93a43/transformed/core-1.13.0/res/values-th/values-th.xml",
+                    "source": "/Users/amansrivastava/.gradle/caches/transforms-3/7e2a65a950f44d4a183145a6f5e0036d/transformed/core-1.14.0-alpha01/res/values-th/values-th.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

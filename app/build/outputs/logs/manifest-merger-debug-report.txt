@@ -26,7 +26,7 @@ MERGED from [androidx.paging:paging-runtime-ktx:3.2.1] /Users/amansrivastava/.gr
 MERGED from [androidx.paging:paging-runtime:3.2.1] /Users/amansrivastava/.gradle/caches/transforms-3/517d6ecbf38953adfd7cd579e9c0cf0b/transformed/paging-runtime-3.2.1/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/amansrivastava/.gradle/caches/transforms-3/6dc54d8dd2510197f3623e8bb0141c7d/transformed/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.customview:customview:1.1.0] /Users/amansrivastava/.gradle/caches/transforms-3/c59c189760f738c9d97d13cf6615098b/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core:1.13.0] /Users/amansrivastava/.gradle/caches/transforms-3/e042b1224024ccc28a373e8df7b93a43/transformed/core-1.13.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core:1.14.0-alpha01] /Users/amansrivastava/.gradle/caches/transforms-3/7e2a65a950f44d4a183145a6f5e0036d/transformed/core-1.14.0-alpha01/AndroidManifest.xml:17:1-30:12
 MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/amansrivastava/.gradle/caches/transforms-3/8c4b3627f5f6086723b26fe82d89d571/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] /Users/amansrivastava/.gradle/caches/transforms-3/d8084f556f54ce21cfdd2bd3cfac8cfd/transformed/lifecycle-livedata-core-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/amansrivastava/.gradle/caches/transforms-3/e7bf8526212770965c44ff98a0ae3090/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
@@ -38,7 +38,7 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/amansrivas
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/amansrivastava/.gradle/caches/transforms-3/25b7259a0d8d08e75239cc9c5b41f763/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/amansrivastava/.gradle/caches/transforms-3/3b9b5746df7d99f40f7bb51387f03c36/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/amansrivastava/.gradle/caches/transforms-3/790744f02756f54474e1ebde60e6cb77/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core-ktx:1.13.0] /Users/amansrivastava/.gradle/caches/transforms-3/3e218d575f07013163a9283e11268e0b/transformed/core-ktx-1.13.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-ktx:1.14.0-alpha01] /Users/amansrivastava/.gradle/caches/transforms-3/034b9066b92e4f25db530539a5b6c8c8/transformed/core-ktx-1.14.0-alpha01/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/amansrivastava/.gradle/caches/transforms-3/6b10ef794ebc5e4856c939d7fc0ab48e/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/amansrivastava/.gradle/caches/transforms-3/85982b4629e74e848bdfc4a9b609e76a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/amansrivastava/.gradle/caches/transforms-3/408b1ac34b7a5934dfaecdf446024c26/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -74,8 +74,8 @@ MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/amansrivas
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/amansrivastava/.gradle/caches/transforms-3/44d3720dd2992f569cd6e6e86b6e5ce2/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
 MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/amansrivastava/.gradle/caches/transforms-3/e40bddcd2554c3ff0c6428c2e0ba74c7/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/amansrivastava/.gradle/caches/transforms-3/e40bddcd2554c3ff0c6428c2e0ba74c7/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.core:core:1.13.0] /Users/amansrivastava/.gradle/caches/transforms-3/e042b1224024ccc28a373e8df7b93a43/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
-MERGED from [androidx.core:core:1.13.0] /Users/amansrivastava/.gradle/caches/transforms-3/e042b1224024ccc28a373e8df7b93a43/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.14.0-alpha01] /Users/amansrivastava/.gradle/caches/transforms-3/7e2a65a950f44d4a183145a6f5e0036d/transformed/core-1.14.0-alpha01/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.14.0-alpha01] /Users/amansrivastava/.gradle/caches/transforms-3/7e2a65a950f44d4a183145a6f5e0036d/transformed/core-1.14.0-alpha01/AndroidManifest.xml:28:5-89
 MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/amansrivastava/.gradle/caches/transforms-3/984d9f7460510da160d69352523bbb37/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/amansrivastava/.gradle/caches/transforms-3/984d9f7460510da160d69352523bbb37/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/amansrivastava/.gradle/caches/transforms-3/4d87d4bd3726971ea33953833972acff/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
@@ -87,7 +87,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/aman
 	android:extractNativeLibs
 		INJECTED from /Users/amansrivastava/AndroidStudioProjects/MyRetrofit/app/src/main/AndroidManifest.xml
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.13.0] /Users/amansrivastava/.gradle/caches/transforms-3/e042b1224024ccc28a373e8df7b93a43/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+		ADDED from [androidx.core:core:1.14.0-alpha01] /Users/amansrivastava/.gradle/caches/transforms-3/7e2a65a950f44d4a183145a6f5e0036d/transformed/core-1.14.0-alpha01/AndroidManifest.xml:28:18-86
 	android:supportsRtl
 		ADDED from /Users/amansrivastava/AndroidStudioProjects/MyRetrofit/app/src/main/AndroidManifest.xml:14:9-35
 	android:label
@@ -172,8 +172,8 @@ MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/amansrivastava/.gr
 MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/amansrivastava/.gradle/caches/transforms-3/6dc54d8dd2510197f3623e8bb0141c7d/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.customview:customview:1.1.0] /Users/amansrivastava/.gradle/caches/transforms-3/c59c189760f738c9d97d13cf6615098b/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.customview:customview:1.1.0] /Users/amansrivastava/.gradle/caches/transforms-3/c59c189760f738c9d97d13cf6615098b/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.13.0] /Users/amansrivastava/.gradle/caches/transforms-3/e042b1224024ccc28a373e8df7b93a43/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.13.0] /Users/amansrivastava/.gradle/caches/transforms-3/e042b1224024ccc28a373e8df7b93a43/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.14.0-alpha01] /Users/amansrivastava/.gradle/caches/transforms-3/7e2a65a950f44d4a183145a6f5e0036d/transformed/core-1.14.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.14.0-alpha01] /Users/amansrivastava/.gradle/caches/transforms-3/7e2a65a950f44d4a183145a6f5e0036d/transformed/core-1.14.0-alpha01/AndroidManifest.xml:20:5-44
 MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/amansrivastava/.gradle/caches/transforms-3/8c4b3627f5f6086723b26fe82d89d571/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/amansrivastava/.gradle/caches/transforms-3/8c4b3627f5f6086723b26fe82d89d571/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] /Users/amansrivastava/.gradle/caches/transforms-3/d8084f556f54ce21cfdd2bd3cfac8cfd/transformed/lifecycle-livedata-core-ktx-2.6.2/AndroidManifest.xml:20:5-44
@@ -196,8 +196,8 @@ MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/amansrivastava/.
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/amansrivastava/.gradle/caches/transforms-3/3b9b5746df7d99f40f7bb51387f03c36/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/amansrivastava/.gradle/caches/transforms-3/790744f02756f54474e1ebde60e6cb77/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/amansrivastava/.gradle/caches/transforms-3/790744f02756f54474e1ebde60e6cb77/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core-ktx:1.13.0] /Users/amansrivastava/.gradle/caches/transforms-3/3e218d575f07013163a9283e11268e0b/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.13.0] /Users/amansrivastava/.gradle/caches/transforms-3/3e218d575f07013163a9283e11268e0b/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.14.0-alpha01] /Users/amansrivastava/.gradle/caches/transforms-3/034b9066b92e4f25db530539a5b6c8c8/transformed/core-ktx-1.14.0-alpha01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.14.0-alpha01] /Users/amansrivastava/.gradle/caches/transforms-3/034b9066b92e4f25db530539a5b6c8c8/transformed/core-ktx-1.14.0-alpha01/AndroidManifest.xml:5:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/amansrivastava/.gradle/caches/transforms-3/6b10ef794ebc5e4856c939d7fc0ab48e/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/amansrivastava/.gradle/caches/transforms-3/6b10ef794ebc5e4856c939d7fc0ab48e/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/amansrivastava/.gradle/caches/transforms-3/85982b4629e74e848bdfc4a9b609e76a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
@@ -249,25 +249,25 @@ ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/amansrivastava/.gradle/caches/t
 	android:name
 		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/amansrivastava/.gradle/caches/transforms-3/e40bddcd2554c3ff0c6428c2e0ba74c7/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
 permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.0] /Users/amansrivastava/.gradle/caches/transforms-3/e042b1224024ccc28a373e8df7b93a43/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.14.0-alpha01] /Users/amansrivastava/.gradle/caches/transforms-3/7e2a65a950f44d4a183145a6f5e0036d/transformed/core-1.14.0-alpha01/AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.13.0] /Users/amansrivastava/.gradle/caches/transforms-3/e042b1224024ccc28a373e8df7b93a43/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.14.0-alpha01] /Users/amansrivastava/.gradle/caches/transforms-3/7e2a65a950f44d4a183145a6f5e0036d/transformed/core-1.14.0-alpha01/AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.13.0] /Users/amansrivastava/.gradle/caches/transforms-3/e042b1224024ccc28a373e8df7b93a43/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.14.0-alpha01] /Users/amansrivastava/.gradle/caches/transforms-3/7e2a65a950f44d4a183145a6f5e0036d/transformed/core-1.14.0-alpha01/AndroidManifest.xml:23:9-81
 permission#com.example.myretrofit.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.0] /Users/amansrivastava/.gradle/caches/transforms-3/e042b1224024ccc28a373e8df7b93a43/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.14.0-alpha01] /Users/amansrivastava/.gradle/caches/transforms-3/7e2a65a950f44d4a183145a6f5e0036d/transformed/core-1.14.0-alpha01/AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.13.0] /Users/amansrivastava/.gradle/caches/transforms-3/e042b1224024ccc28a373e8df7b93a43/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.14.0-alpha01] /Users/amansrivastava/.gradle/caches/transforms-3/7e2a65a950f44d4a183145a6f5e0036d/transformed/core-1.14.0-alpha01/AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.13.0] /Users/amansrivastava/.gradle/caches/transforms-3/e042b1224024ccc28a373e8df7b93a43/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.14.0-alpha01] /Users/amansrivastava/.gradle/caches/transforms-3/7e2a65a950f44d4a183145a6f5e0036d/transformed/core-1.14.0-alpha01/AndroidManifest.xml:23:9-81
 uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.0] /Users/amansrivastava/.gradle/caches/transforms-3/e042b1224024ccc28a373e8df7b93a43/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.14.0-alpha01] /Users/amansrivastava/.gradle/caches/transforms-3/7e2a65a950f44d4a183145a6f5e0036d/transformed/core-1.14.0-alpha01/AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.13.0] /Users/amansrivastava/.gradle/caches/transforms-3/e042b1224024ccc28a373e8df7b93a43/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.14.0-alpha01] /Users/amansrivastava/.gradle/caches/transforms-3/7e2a65a950f44d4a183145a6f5e0036d/transformed/core-1.14.0-alpha01/AndroidManifest.xml:26:22-94
 uses-permission#com.example.myretrofit.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.0] /Users/amansrivastava/.gradle/caches/transforms-3/e042b1224024ccc28a373e8df7b93a43/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.14.0-alpha01] /Users/amansrivastava/.gradle/caches/transforms-3/7e2a65a950f44d4a183145a6f5e0036d/transformed/core-1.14.0-alpha01/AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.13.0] /Users/amansrivastava/.gradle/caches/transforms-3/e042b1224024ccc28a373e8df7b93a43/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.14.0-alpha01] /Users/amansrivastava/.gradle/caches/transforms-3/7e2a65a950f44d4a183145a6f5e0036d/transformed/core-1.14.0-alpha01/AndroidManifest.xml:26:22-94
 meta-data#androidx.lifecycle.ProcessLifecycleInitializer
 ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/amansrivastava/.gradle/caches/transforms-3/984d9f7460510da160d69352523bbb37/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
 	android:value
